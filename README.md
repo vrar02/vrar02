@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I'm currently exploring microservices and distributed architecture.<br> 🌱 Interested in developing highly scalable distributed applications, Full Stack Web Development.<br>I believe learning is never ending process and always thrive to work hard to achieve my goals.<br>I like to play Cricket, Chess and Listening to Music.
+🔭 I'm currently exploring microservices and distributed architecture.<br> 🌱 Interested in developing highly scalable distributed applications, Full Stack Web Development.<br>I believe learning is never ending process and always thrive to work hard to achieve my goals.<br>I like to play Cricket, Chess and Listening to Music..
 
 
 ## 🌐 Socials:
